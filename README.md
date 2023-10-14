@@ -1,24 +1,29 @@
-
-<h1 align="center">Formulário avançado</h1>
-
-<p align="center">Form - React</p>
-
-<br>
+<h1 align="center">Formulário Avançado</h1>
 
 <p align="center">
-  <img alt="Form web" src="./public/form.jpg" width="100%" height="70%">
+  <img alt="Formulário Web" src="./public/form.jpg" width="100%" height="70%">
 </p>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Typescript 
-- React 
-- Git e Github
+- TypeScript
+- React
+- Git e GitHub
 - Vite
 
-## 💻 Projeto
+## 💻 Sobre o Projeto
 
-Basicamente a lógica de um formulário comum, só que ela traz várias validações de Campos, como verificação de campos como e-mail, senha, seus campos são obrigatórios.
-No entato é um formulário avançado.
+O Formulário Avançado é uma aplicação que se baseia na lógica de um formulário comum, porém, apresenta várias validações de campos para garantir a integridade dos dados inseridos. O projeto inclui verificações para campos como e-mail e senha, bem como torna campos obrigatórios, proporcionando uma experiência aprimorada na coleta de informações.
+
+## Funcionalidades
+
+- Validação de campos obrigatórios
+- Verificação de formato de e-mail
+- Restrições de senha segura
+- Interface amigável para o usuário
+
+Este formulário avançado é ideal para projetos que exigem uma coleta precisa e segura de informações, garantindo a qualidade dos dados recebidos.
+
+</details>
