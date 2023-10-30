@@ -1,4 +1,4 @@
-<h1 align="center">Formulário Avançado</h1>
+<h2 align="center">Formulário Avançado - React</h2>
 
 <p align="center">
   <img alt="Formulário Web" src="./public/form.jpg" width="100%" height="70%">
